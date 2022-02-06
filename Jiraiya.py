@@ -1,4 +1,3 @@
-from pydoc import plain
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtWidgets import QApplication, QWidget, QShortcut, QLabel, QHBoxLayout
