@@ -1,6 +1,6 @@
 # Jiraiya-Webbrower
 This is simple Brower for the beginner.
-Hope this project will help in your future project.\n
+Hope this project will help in your future project.                                                                                                                                
 dowload requirement:
 Python
 Module requirement:
